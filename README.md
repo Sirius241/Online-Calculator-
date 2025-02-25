@@ -7,4 +7,6 @@ A simple online calculator built as a beginner-friendly web development project.
 2. **Navigate to the Project Folder**:
    ```bash
    cd online-calculator
-3. Open the index.html File: You can now open the index.html file in your browser to use the calculator.
+3. **Run app.py file**:
+   ```bash
+   python app.py
